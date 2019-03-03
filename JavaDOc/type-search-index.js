@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"homework","l":"Bishop"},{"p":"homework","l":"Board"},{"p":"homework","l":"ChessGame"},{"p":"homework","l":"Colour"},{"p":"homework","l":"Figure"},{"p":"homework","l":"Game"},{"p":"homework","l":"Game_mechanism"},{"p":"homework","l":"Horse"},{"p":"homework","l":"King"},{"p":"homework","l":"Pawn"},{"p":"homework","l":"Queen"},{"p":"homework","l":"Rook"}]
